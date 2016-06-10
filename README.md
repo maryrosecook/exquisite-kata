@@ -50,7 +50,7 @@ Clone the repo.
 
 ### Run the program
 
-    $ ruby lib/tic_tac_toe.rb
+    ???
 
 ## User Stories
 
